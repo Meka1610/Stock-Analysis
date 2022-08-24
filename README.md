@@ -1,21 +1,22 @@
 # Stock-Analysis
 
-Overview of Project
+**Overview of Project**
 
 
 Help Steve analyze a handful of green energy stocks including DAQO stock. 
 
 
-Purpose and Background 
+**Purpose and Background **
 
 
 Provide a tool that allows end users to gain insight on past stock history to determine if it is worthwhile to invest. 
 
 
-Results 
+**Results **
 
 
 Run time of the original versus the refactored was exponentially quicker. In addition the program is much easier for end users to navigate and use analytics tool.
+
 
 Original 2017 Run 
 
@@ -45,7 +46,7 @@ VBA Challenge Script
 ![VBA_Challenge - P2c](https://user-images.githubusercontent.com/111043588/186363489-4fc53921-bb1f-4bbe-917c-cf6509f109c6.PNG)
  
 
-Summary: 
+**Summary: **
 
 In general the advantages and disadvantages of refactoring code and this also pertains to the original and refactored VBA script
 
